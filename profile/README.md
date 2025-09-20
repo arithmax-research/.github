@@ -49,5 +49,3 @@ Democratize institutional-grade market insights through:
 - Mathematical transparency in strategy design
 - Open engineering principles
 - Hardware-aware algorithmic implementation
-
-[Contact us] for partnership opportunities or technical inquiries
