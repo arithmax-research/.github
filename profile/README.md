@@ -7,6 +7,7 @@ We are a multidisciplinary team of mathematicians and software engineers develop
 
 ![Tech Stack](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/C-0000FF?logo=c&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Assembly-8E0B0B?logo=assemblyscript&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=black)
