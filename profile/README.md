@@ -1,7 +1,7 @@
 # Arithmax research 
 
 ## About Us
-We are a multidisciplinary team of mathematicians and software engineers developing quantitative strategies to identify and exploit opportunities across global financial markets. Combining rigorous mathematical modeling with cutting-edge technology, we deploy proprietary capital while offering limited partnership opportunities to qualified investors.
+We are a multidisciplinary team of mathematicians, statisticians, and theoretical computer scientists developing quantitative strategies to identify and exploit opportunities across global financial markets. We combine rigorous mathematical modeling with cutting-edge technology, we deploy proprietary capital while offering limited partnership opportunities to interested investors.
 
 ## Tech stack 
 ![Tech Stack](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
