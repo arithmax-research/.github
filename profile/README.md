@@ -13,7 +13,7 @@ We are a multidisciplinary team of mathematicians, statisticians, and theoretica
 ![Tech Stack](https://img.shields.io/badge/VHDL/Verilog-8B0000)
 
 
-## Our deployed Tools for free 
+## Our Open Source deployed Tools 
 
 <a href="https://mgunkrmvmp.us-east-1.awsapprunner.com/" target="_blank">
   <img src="feenqr-logo.png" alt="FeenQR" style="width:200px;height:auto;">
