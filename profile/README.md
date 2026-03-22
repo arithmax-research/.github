@@ -11,3 +11,8 @@ We are a multidisciplinary team of mathematicians, statisticians, and theoretica
 ![Tech Stack](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=black)
 ![Tech Stack](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/VHDL/Verilog-8B0000)
+
+
+## Our deployed Tools for free 
+
+![FeenQR](https://mgunkrmvmp.us-east-1.awsapprunner.com/)
