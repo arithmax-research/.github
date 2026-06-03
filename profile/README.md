@@ -15,6 +15,6 @@ We are a multidisciplinary team of mathematicians, statisticians, and theoretica
 
 ## Our Open Source deployed Tools 
 
-<a href="https://mgunkrmvmp.us-east-1.awsapprunner.com/" target="_blank">
+<a href="https://feenqr.misango.me/" target="_blank">
   <img src="feenqr-logo.png" alt="FeenQR" style="width:200px;height:auto;">
 </a>
