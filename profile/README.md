@@ -18,3 +18,6 @@ We are a multidisciplinary team of mathematicians, statisticians, and theoretica
 <a href="https://feenqr.misango.me/" target="_blank">
   <img src="feenqr-logo.png" alt="FeenQR" style="width:200px;height:auto;">
 </a>
+<a href="https://pypi.org/project/arithmaxchest/#description" target="_blank">
+  <img src="Treasure Chest DataGraph Logo.png" alt="FeenQR" style="width:200px;height:auto;">
+</a>
