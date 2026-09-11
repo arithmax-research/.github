@@ -1,4 +1,4 @@
-We are a multidisciplinary team of mathematicians, statisticians, and theoretical computer scientists developing quantitative strategies to identify and exploit opportunities across global financial markets. We combine rigorous mathematical modeling with cutting-edge technology, and we deploy proprietary capital while offering limited partnership opportunities to interested investors.
+We are a multidisciplinary team of mathematicians, statisticians, and theoretical computer scientists developing quantitative strategies to identify and exploit opportunities across global financial markets. We combine rigorous mathematical modeling with cutting-edge technology, while deploying proprietary capital
 
 
 ## Tech stack 
