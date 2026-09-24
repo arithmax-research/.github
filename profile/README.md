@@ -2,14 +2,16 @@ We are a multidisciplinary team of mathematicians, statisticians, and theoretica
 
 
 ## Tech stack 
-![Tech Stack](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Tech Stack](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/Assembly-6E4C13?logo=assemblyscript&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" />
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="clang" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="zig" width="45" height="45"/>               
 ![Tech Stack](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=black)
-![Tech Stack](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/VHDL/Verilog-8B0000)
 
 
